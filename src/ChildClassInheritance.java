@@ -12,6 +12,7 @@ public class ChildClassInheritance extends ParentClassInheritance {
 	{
 		System.out.println("Specific engine is here");
 	}
+	
 	public void colour()
 	{
 		System.out.println(colour);
